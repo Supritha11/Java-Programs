@@ -14,3 +14,9 @@ public class TraineeTester {
 	}
 
 }
+//Output://
+//Id :1 Name: Supritha Emailid :supritha@gmail.com Age :22 Institution :null//
+//In static method
+//Id :2 Name: Amitha Emailid :amitha@gmail.com Age :22 Institution :X-Workz//
+//Id :2 Name: Megha Emailid :megha@gmail.com Age :21 Institution :X-Workz//
+
